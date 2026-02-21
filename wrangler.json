@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "arsh-db-w1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "112432d7-a4dc-47c9-b09e-30dfa75e4643",
+			"database_name": "arsh-data-1"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
